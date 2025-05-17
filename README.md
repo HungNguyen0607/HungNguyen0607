@@ -1,1 +1,1 @@
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/HungNguyen0607/HungNguyen0607/blob/output/github-snake.svg)
